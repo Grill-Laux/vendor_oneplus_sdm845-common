@@ -1063,7 +1063,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libfastcvopt \
-    libplatformconfig \
     libthermalclient \
     CneApp \
     IWlanService \
